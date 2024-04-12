@@ -1,3 +1,4 @@
 #biblotecas que voy a necesitar
 flask == 3.0.23 
 jinja2 == la más reciente 
+flask_sqlalchemy == 3.1.0
